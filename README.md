@@ -1,2 +1,4 @@
-# sshd_rsync-alpine
-docker  sshd+rsync alpine
+#docker Alpine image with sshd+rsync alpine
+
+user: root
+password: root
